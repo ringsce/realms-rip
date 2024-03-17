@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1244095286"/>
+  <Params Value=" -MObjFPC -Sgi -O1 -gl -WG -vewnhi -l -Fi/home/michael/Code/fpc/pIRCc/ -Fu/usr/lib/lazarus/components/CmdLine/lib/i386-linux/ -Fu/usr/lib/lazarus/components/lnet/lazaruspackage/lib/i386-linux/ -Fu/home/michael/Desktop/lnet/lazaruspackage/lib/i386-linux/ -Fu/usr/lib/lazarus/ideintf/units/i386-linux/ -Fu/usr/lib/lazarus/lcl/units/i386-linux/ -Fu/usr/lib/lazarus/lcl/units/i386-linux/gtk2/ -Fu/usr/lib/lazarus/packager/units/i386-linux/ -Fu/home/michael/Code/fpc/pIRCc/ -Fu. -o/home/michael/Code/fpc/pIRCc/pIRCc -dLCL -dLCLgtk2 pIRCc.lpr"/>
+</CONFIG>

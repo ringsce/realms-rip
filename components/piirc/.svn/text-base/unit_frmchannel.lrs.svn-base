@@ -1,0 +1,33 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TfrmChannel','FORMDATA',[
+  'TPF0'#11'TfrmChannel'#10'frmChannel'#4'Left'#3'='#1#6'Height'#3'z'#2#3'Top'#3
+  +#224#0#5'Width'#3#12#4#13'ActiveControl'#7#11'termDisplay'#7'Caption'#6#8'#C'
+  +'hannel'#12'ClientHeight'#3'z'#2#11'ClientWidth'#3#12#4#5'Color'#7#6'clForm'
+  +#7'OnClose'#7#9'FormClose'#10'LCLVersion'#6#8'0.9.26.2'#0#5'TEdit'#8'txtInpu'
+  +'t'#4'Left'#2#2#6'Height'#2#19#3'Top'#3'e'#2#5'Width'#3#8#4#5'Align'#7#8'alB'
+  +'ottom'#18'BorderSpacing.Left'#2#2#17'BorderSpacing.Top'#2#2#19'BorderSpacin'
+  +'g.Right'#2#2#20'BorderSpacing.Bottom'#2#2#10'Font.Color'#7#7'clBlack'#11'Fo'
+  +'nt.Height'#2#245#9'Font.Name'#6#24'bitstream vera sans mono'#10'Font.Pitch'
+  +#7#7'fpFixed'#10'OnKeyPress'#7#16'txtInputKeyPress'#10'ParentFont'#8#8'TabOr'
+  +'der'#2#0#0#0#9'TSplitter'#8'Splitter'#24'AnchorSideBottom.Control'#7#8'txtI'
+  +'nput'#4'Left'#3'P'#3#6'Height'#3'c'#2#3'Top'#2#0#5'Width'#2#4#5'Align'#7#6
+  +'alNone'#7'Anchors'#11#5'akTop'#8'akBottom'#0#5'Color'#7#6'clForm'#7'MinSize'
+  +#2#4#11'ParentColor'#8#0#0#7'TCmdBox'#11'termDisplay'#23'AnchorSideRight.Con'
+  +'trol'#7#8'Splitter'#24'AnchorSideBottom.Control'#7#8'txtInput'#4'Left'#2#0#6
+  +'Height'#3'c'#2#3'Top'#2#0#5'Width'#3'P'#3#5'Align'#7#6'alLeft'#7'Anchors'#11
+  +#5'akTop'#6'akLeft'#7'akRight'#8'akBottom'#0#10'CaretColor'#7#7'clWhite'#9'C'
+  +'aretType'#7#8'cartUser'#10'CaretWidth'#2#1#11'CaretHeight'#2#12#11'CaretYSh'
+  +'ift'#2#3#9'LineCount'#3#232#3#10'Font.Color'#7#7'clBlack'#11'Font.Height'#2
+  +#245#9'Font.Name'#6#24'bitstream vera sans mono'#10'Font.Pitch'#7#7'fpFixed'
+  +#15'BackGroundColor'#7#8'clWindow'#8'TabWidth'#2'<'#10'HistoryMax'#2#10#13'I'
+  +'nputSelColor'#7#6'clBlue'#18'InputSelBackGround'#7#7'clWhite'#13'CaretInter'
+  +'val'#3#244#1#14'EscapeCodeType'#7#8'esctAnsi'#23'GraphicalCharacterWidth'#2
+  +#10#0#0#8'TListBox'#11'lstNickList'#22'AnchorSideLeft.Control'#7#8'Splitter'
+  +#19'AnchorSideLeft.Side'#7#9'asrBottom'#24'AnchorSideBottom.Control'#7#8'txt'
+  +'Input'#4'Left'#3'T'#3#6'Height'#3'c'#2#3'Top'#2#0#5'Width'#3#186#0#7'Anchor'
+  +'s'#11#5'akTop'#6'akLeft'#7'akRight'#8'akBottom'#0#11'BorderStyle'#7#6'bsNon'
+  +'e'#10'Font.Color'#7#7'clBlack'#11'Font.Height'#2#245#9'Font.Name'#6#24'bits'
+  +'tream vera sans mono'#10'Font.Pitch'#7#7'fpFixed'#10'ItemHeight'#2#0#10'Par'
+  +'entFont'#8#6'Sorted'#9#8'TabOrder'#2#3#8'TopIndex'#2#255#0#0#0
+]);

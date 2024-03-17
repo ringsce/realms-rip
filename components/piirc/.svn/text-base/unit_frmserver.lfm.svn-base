@@ -1,0 +1,73 @@
+object frmServer: TfrmServer
+  Left = 424
+  Height = 485
+  Top = 241
+  Width = 831
+  ActiveControl = termDisplay
+  Caption = 'pIRCc'
+  ClientHeight = 485
+  ClientWidth = 831
+  Color = clForm
+  OnCreate = FormCreate
+  LCLVersion = '0.9.26.2'
+  object txtInput: TEdit
+    Left = 2
+    Height = 19
+    Top = 464
+    Width = 827
+    Align = alBottom
+    BorderSpacing.Left = 2
+    BorderSpacing.Top = 2
+    BorderSpacing.Right = 2
+    BorderSpacing.Bottom = 2
+    Font.Color = clBlack
+    Font.Height = -11
+    Font.Name = 'DejaVu Sans Mono'
+    Font.Pitch = fpFixed
+    Font.Quality = fqAntialiased
+    OnKeyDown = txtInputKeyDown
+    ParentFont = False
+    TabOrder = 1
+    Text = '/connect irc.freenode.net 6667'
+  end
+  object termDisplay: TCmdBox
+    AnchorSideBottom.Control = txtInput
+    Left = 0
+    Height = 462
+    Top = 0
+    Width = 831
+    Align = alLeft
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    CaretColor = clWhite
+    CaretType = cartUser
+    CaretWidth = 1
+    CaretHeight = 8
+    CaretYShift = 3
+    LineCount = 1000
+    Font.Color = clBlack
+    Font.Height = -11
+    Font.Name = 'DejaVu Sans Mono'
+    Font.Pitch = fpFixed
+    Font.Quality = fqAntialiased
+    BackGroundColor = clWindow
+    TabWidth = 60
+    PassWordChar = '*'
+    HistoryMax = 10
+    InputSelColor = clBlue
+    InputSelBackGround = clWhite
+    CaretInterval = 500
+    EscapeCodeType = esctAnsi
+    GraphicalCharacterWidth = 10
+  end
+  object tnSocket: TLTelnetClientComponent
+    Port = 0
+    OnConnect = tnSocketConnect
+    OnDisconnect = tnSocketDisconnect
+    OnReceive = tnSocketReceive
+    OnError = tnSocketError
+    Timeout = 0
+    LocalEcho = False
+    left = 803
+    top = 20
+  end
+end
