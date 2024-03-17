@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="limitogg.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LimitOggWithAssets"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="132"/>
+        <CursorPos Y="167"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="15">
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="15" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="29" Column="25" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="22" Column="3" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="6" Column="27"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="15" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="5" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="62" Column="5" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="96" Column="9" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="50" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="56" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="113" Column="46" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="188" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="40" Column="9" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="limitogg.lpr"/>
+        <Caret Line="90" TopLine="55"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
